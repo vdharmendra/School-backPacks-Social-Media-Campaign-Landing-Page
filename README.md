@@ -29,6 +29,9 @@
 <a href="https://www.behance.net/gallery/212133257/Grind-Coffee-Grind-Coffee-Landing-Page" target="_blank" >
 <img src="./img/school--backpack-landing-page.gif" width="575px"/>
 </a>
+<a href="https://www.behance.net/gallery/212133257/Grind-Coffee-Grind-Coffee-Landing-Page" target="_blank" >
+<img src="./img/cover.png" width="575px"/>
+</a>
 
 
 
